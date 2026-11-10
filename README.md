@@ -2,7 +2,7 @@
 <br>
 <div>
   <h2>Telas Desktop e Mobile</h2>
-  <img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/64313fad-e662-4973-9bbe-b1f606f70082" />
+  <img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/fda4a758-8367-4ab1-8de6-16904e9a2ce9" />
   <img width="140" height="auto" alt="image" src="https://github.com/user-attachments/assets/0177014c-3c29-455a-8e27-51e167aeb1ef" />
 <div>
 <br>
